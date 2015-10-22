@@ -1,0 +1,22 @@
+{
+  "name": "tangojs-framework",
+  "version": "1.0.0",
+  "description": "tangojs foundations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdriatikDushica/tangojs-framework.git"
+  },
+  "keywords": [
+    "tangojs-framework"
+  ],
+  "author": "Adriatik Dushica <adriatik.dushica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdriatikDushica/tangojs-framework/issues"
+  },
+  "homepage": "https://github.com/AdriatikDushica/tangojs-framework"
+}
